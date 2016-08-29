@@ -5,3 +5,5 @@ How can a gradient effect be created quickly and painlessly? There are actually 
 For the full tutorial, you can check it out here:
 
 http://www.appcoda.com/cagradientlayer
+
+update : support iOS 10
